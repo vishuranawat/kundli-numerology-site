@@ -1,0 +1,1 @@
+// Sample React entry point

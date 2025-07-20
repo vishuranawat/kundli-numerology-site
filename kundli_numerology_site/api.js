@@ -1,0 +1,1 @@
+// Sample API endpoint for astrology calculations
